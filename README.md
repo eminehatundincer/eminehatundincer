@@ -1,16 +1,17 @@
-## Hi there 👋
+# Merhaba! Ben Emine Hatun Dinçer👋
 
-<!--
-**eminehatundincer/eminehatundincer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Hakkımda
 
-Here are some ideas to get you started:
+- 🎓 Süleyman Demirel Üniversitesi Bilgisayar Mühendisliği öğrencisiyim.
+- 🤖 Yapay zekâ ve makine öğrenmesiyle ilgileniyorum.
+- 🛠️ Kullandığım teknolojiler: Python • Java • C • C# • YOLO • OpenCV
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub İstatistikleri
+
+![GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=eminehatundincer&show_icons=true&theme=tokyonight)
+
+![En Çok Kullandığım Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=eminehatundincer&layout=compact&theme=tokyonight)
+
+## 📫 Bana Ulaşın
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)] https://www.linkedin.com/in/emine-hatun-dincer/
