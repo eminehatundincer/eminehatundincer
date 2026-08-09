@@ -4,7 +4,7 @@
 
 - 🎓 Süleyman Demirel Üniversitesi Bilgisayar Mühendisliği öğrencisiyim.
 - 🤖 Yapay zekâ ve makine öğrenmesiyle ilgileniyorum.
-- 🛠️ Kullandığım teknolojiler: Python • Java • C • C# • YOLO • OpenCV
+- 🛠️ Kullandığım teknolojiler: Python • Java • C • C# • YOLO 
 
 ## 📊 GitHub İstatistikleri
 
