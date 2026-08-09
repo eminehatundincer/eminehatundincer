@@ -6,8 +6,7 @@
 - 🤖 Yapay zekâ ve makine öğrenmesiyle ilgileniyorum.
 - 🛠️ Kullandığım teknolojiler: Python • Java • C • C# • YOLO 
 
-
-![Profil Görüntülenme](https://komarev.com/ghpvc/?username=eminehatundincer&label=Profil%20Görüntülenme&color=0e75b6&style=flat)
+![GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=eminehatundincer&show_icons=true&theme=tokyonight)
 
 ## 📫 Bana Ulaşın
 
