@@ -13,7 +13,7 @@
 
 📧 [eminehatundincer64@icloud.com](mailto:eminehatundincer64@icloud.com)
 
-Medium: https://medium.com/@eminehatundincer6464
+
 
 ---
 
