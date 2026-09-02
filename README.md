@@ -9,10 +9,10 @@
 ## 📫 Bana Ulaşın
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emine-hatun-dincer/)
-[![Medium](https://medium.com/@eminehatundincer6464)
 
 
 📧 [eminehatundincer64@icloud.com](mailto:eminehatundincer64@icloud.com)
+Medium: https://medium.com/@eminehatundincer6464
 
 ---
 
